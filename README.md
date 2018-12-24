@@ -1,4 +1,4 @@
-# Initial page
+# MySQL Tutorial
 
 ## Getting Super Powers
 
