@@ -1,7 +1,7 @@
 # Summary
 
 * [开始学习](README.md)
-* [Untitled](untitled.md)
+* [安装](untitled.md)
 * [Untitled](untitled-1.md)
 
 ## No.1
