@@ -1,0 +1,38 @@
+{
+	"author": "Benny Wu <contact@wubenli.com>",
+	"title": "MySQL Tutorial",
+	"description": "MySQL 速成指南",
+	"language": "zh-hans",
+	"links": {
+		"sidebar": {
+			"优惠券": "https://cpn.red/"
+		}
+	},	
+    "plugins": ["hints", "exercises", "api", "theme-api", "github", "github-buttons", "donate"],
+    "pluginsConfig": {
+        "hints": {
+            "info": "fa fa-info-circle",
+            "tip": "fa fa-mortar-board",
+            "danger": "fa fa-exclamation-cicle",
+            "working": "fa fa-wrench"
+        },
+        "github": {
+            "url": "https://github.com/wuding/mysql-tutorial"
+        },
+        "github-buttons": {
+            "repo": "wuding/mysql-tutorial",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        },
+	    "donate": {
+	        "wechat": "https://urlnk.host/img/pay/weixin.png",
+	        "alipay": "https://urlnk.host/img/pay/alipay.png",
+	        "title": "",
+	        "button": "赏",
+	        "alipayText": "支付宝打赏",
+	        "wechatText": "微信打赏"
+	    }
+    }
+}

@@ -1,5 +1,7 @@
 # MySQL Tutorial
 
+在线阅读 https://benny.gitbook.io/mysql-tutorial
+
 ## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
