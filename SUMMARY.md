@@ -1,6 +1,6 @@
 # Summary
 
-* [Initial page](README.md)
+* [开始学习](README.md)
 * [Untitled](untitled.md)
 * [Untitled](untitled-1.md)
 
