@@ -1,5 +1,7 @@
 # MySQL Tutorial
 
+源码库 https://github.com/wuding/mysql-tutorial
+
 在线阅读 https://benny.gitbook.io/mysql-tutorial
 
 ## Getting Super Powers
