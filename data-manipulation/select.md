@@ -1,0 +1,6 @@
+```sql
+SELECT a,b,a+b INTO OUTFILE '/tmp/result.txt'
+  FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+  LINES TERMINATED BY '\n'
+  FROM test_table;
+```  
