@@ -29,6 +29,12 @@
 ## 优化
 * [索引优化](01-optimization/README.md)
 
-## 工具
+## MySQL 程序概述
+* [mysqld] SQL 守護進程，MySQL 服務器
+* [mysqld_safe] 服務器啓動脚本，嘗試啓動 mysqld
+* [mysql.server] 服務器啓動脚本
+* [mysqld_multi] 服務器啓動脚本
+* [comp_err]
 * [mysqladmin](02-tools/mysqladmin.md)
+* 
 
