@@ -34,7 +34,14 @@
 * [mysqld_safe] 服務器啓動脚本，嘗試啓動 mysqld
 * [mysql.server] 服務器啓動脚本
 * [mysqld_multi] 服務器啓動脚本
+* [mysql_install_db] 初始化數據目錄和初始數據庫
 * [comp_err]
-* [mysqladmin](02-tools/mysqladmin.md)
-* 
-
+* [mysql] 命令行客戶程序，用於交互式或以批處理模式執行 SQL 語句
+* [mysqladmin](02-tools/mysqladmin.md) 管理功能的客戶程序
+* [mysqlcheck] 執行表維護操作
+* [mysqldump] 和 [mysqlhotcopy] 負責數據庫備份
+* [mysqlimport] 和 [mysqlshow] 顯示信息數據庫和表的相關信息
+* [myisamchk] 執行表維護操作
+* [myisampack] 產生壓縮、只讀的表
+* [mysqlbinlog] 處理二進制日志文件的實用工具
+* [perror] 顯示錯誤代碼的含義
